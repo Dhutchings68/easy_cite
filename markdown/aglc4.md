@@ -681,7 +681,7 @@ When the citation appears in a bibliography, list the family name first. Sources
 
 | Two authors | Title | Year | Vol. & Issue | Journal | Page |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| Samantha Joseph and Erin Mackay, | 'Moral Rights and Indigenous Communities' | 2006 | 3 | *Art and Law* | 6 |
+| Samantha Joseph and Erin Mackay, | 'Moral Rights and Indigenous Communities' | (2006) | 3 | *Art and Law* | 6 |
 
 - When citing the names of the authors, they should appear in the exact order as they are listed in the source material.
 
